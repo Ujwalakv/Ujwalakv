@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 --><h1 align="center">Hi 👋, I'm Ujwala</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujwalakv&label=Profile%20views&color=0e75b6&style=flat" alt="ujwalakv" /> </p>
 
-- 🌱 I’m currently learning **Dart and flutter**
+- 🌱 I’m currently learning **Javascript**
 
 - 📫 How to reach me **ujwalakv6@gmail.com**
 
